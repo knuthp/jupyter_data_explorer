@@ -1,0 +1,4 @@
+# Do not fix versions to maybe help cloud startu times
+pandas
+altair
+vega_datasets

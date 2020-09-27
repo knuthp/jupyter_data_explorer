@@ -2,3 +2,5 @@
 pandas
 altair
 vega_datasets
+requests
+arrow
